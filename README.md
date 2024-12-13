@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunal Gahlot</h1>
 
-<h3 align="center">I'm a passionate software developer and technology enthusiast currently pursuing my **Bachelor of Technology** in **Electronics and Communication Engineering** at **The LNM Institute of Information Technology, Jaipur**.</h3>
+<h3 align="center">I'm a passionate software developer and technology enthusiast currently pursuing my Bachelor of Technology in Electronics and Communication Engineering at The LNM Institute of Information Technology, Jaipur.</h3>
 
 ---
 
