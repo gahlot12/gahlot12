@@ -1,6 +1,6 @@
-# Hi there 👋
+<h1 align="center">Hi 👋, I'm Kunal Gahlot</h1>
 
-I'm **Kunal Gahlot**, a passionate software developer and technology enthusiast currently pursuing my **Bachelor of Technology** in **Electronics and Communication Engineering** at **The LNM Institute of Information Technology, Jaipur**.
+<h3 align="center">I'm a passionate software developer and technology enthusiast currently pursuing my **Bachelor of Technology** in **Electronics and Communication Engineering** at **The LNM Institute of Information Technology, Jaipur**.</h3>
 
 ---
 
@@ -8,16 +8,17 @@ I'm **Kunal Gahlot**, a passionate software developer and technology enthusiast 
 - 🔭 **I’m currently working on:** Building innovative projects to enhance my development skills.
 - 🌱 **I’m currently learning:** Advanced React.js, Node.js, and exploring DevOps practices.
 - 👯 **I’m looking to collaborate on:** Web development, API integration, and software engineering projects.
-- 📫 **How to reach me:** [Email](mailto:gkunalswm@gmail.com) | [LinkedIn](https://linkedin.com/in/kunal-gahlot-127935227) | [GitHub](https://github.com/gahlot12)
-- ⚡ **Fun fact:** I love solving challenging problems on LeetCode (350+ questions solved!)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/kunal-gahlot-127935227" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Kunal Gahlot" height="30" width="40" /></a>
+</p>
+
 
 ---
 
-## 🛠️ Languages and Tools
-
-###
-
-<div align="left">
+<h3 align="left">Languages and Tools:</h3>
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
@@ -43,4 +44,14 @@ I'm **Kunal Gahlot**, a passionate software developer and technology enthusiast 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gahlot12&show_icons=true&theme=radical" alt="Kunal's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gahlot12&layout=compact&theme=radical" alt="Top Langs" />
+</div>
+
+---
+
